@@ -99,7 +99,6 @@ var config = {
 	api: {
 		accounts: { http: './api/http/accounts.js' },
 		blocks: { http: './api/http/blocks.js' },
-		dapps: { http: './api/http/dapps.js' },
 		delegates: { http: './api/http/delegates.js' },
 		multisignatures: { http: './api/http/multisignatures.js' },
 		signatures: { http: './api/http/signatures.js' },
